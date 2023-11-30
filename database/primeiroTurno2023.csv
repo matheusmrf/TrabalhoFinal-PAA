@@ -1,0 +1,191 @@
+﻿Rodada;Campeonato Brasileiro 2023;;
+1ª;Flamengo;X;Coritiba
+;Botafogo;X;São Paulo
+;Palmeiras;X;Cuiabá
+;Corinthians;X;Cruzeiro
+;Bragantino;X;Bahia
+;Atlético-MG;X;Vasco
+;Grêmio;X;Santos
+;Athletico-PR;X;Goiás
+;Fortaleza;X;Internacional
+;América-MG;X;Fluminense
+2ª;Fluminense;X;Athletico-PR
+;Vasco;X;Palmeiras
+;São Paulo;X;América-MG
+;Santos;X;Atlético-MG
+;Goiás;X;Corinthians
+;Cruzeiro;X;Grêmio
+;Internacional;X;Flamengo
+;Coritiba;X;Fortaleza
+;Bahia;X;Botafogo
+;Cuiabá;X;Bragantino
+3ª;Flamengo;X;Botafogo
+;Vasco;X;Bahia
+;Palmeiras;X;Corinthians
+;Santos;X;América-MG
+;Bragantino;X;Cruzeiro
+;Atlético-MG;X;Athletico-PR
+;Internacional;X;Goiás
+;Coritiba;X;São Paulo
+;Fortaleza;X;Fluminense
+;Cuiabá;X;Grêmio
+4ª;Fluminense;X;Vasco
+;Botafogo;X;Atlético-MG
+;São Paulo;X;Internacional
+;Corinthians;X;Fortaleza
+;Goiás;X;Palmeiras
+;Cruzeiro;X;Santos
+;Grêmio;X;Bragantino
+;Athletico-PR;X;Flamengo
+;Bahia;X;Coritiba
+;América-MG;X;Cuiabá
+5ª;Flamengo;X;Goiás
+;Botafogo;X;Corinthians
+;Palmeiras;X;Grêmio
+;Santos;X;Bahia
+;Bragantino;X;América-MG
+;Cruzeiro;X;Fluminense
+;Internacional;X;Athletico-PR
+;Coritiba;X;Vasco
+;Fortaleza;X;São Paulo
+;Cuiabá;X;Atlético-MG
+6ª;Fluminense;X;Cuiabá
+;Vasco;X;Santos
+;Palmeiras;X;Bragantino
+;Corinthians;X;São Paulo
+;Goiás;X;Botafogo
+;Atlético-MG;X;Internacional
+;Grêmio;X;Fortaleza
+;Athletico-PR;X;Coritiba
+;Bahia;X;Flamengo
+;América-MG;X;Cruzeiro
+7ª;Flamengo;X;Corinthians
+;Botafogo;X;Fluminense
+;São Paulo;X;Vasco
+;Santos;X;Palmeiras
+;Bragantino;X;Athletico-PR
+;Cruzeiro;X;Cuiabá
+;Grêmio;X;Internacional
+;Coritiba;X;Atlético-MG
+;Bahia;X;Goiás
+;América-MG;X;Fortaleza
+8ª;Flamengo;X;Cruzeiro
+;Botafogo;X;América-MG
+;São Paulo;X;Goiás
+;Corinthians;X;Fluminense
+;Bragantino;X;Santos
+;Atlético-MG;X;Palmeiras
+;Internacional;X;Bahia
+;Athletico-PR;X;Grêmio
+;Fortaleza;X;Vasco
+;Cuiabá;X;Coritiba
+9ª;Fluminense;X;Bragantino
+;Vasco;X;Flamengo
+;Palmeiras;X;Coritiba
+;Santos;X;Internacional
+;Goiás;X;Cuiabá
+;Cruzeiro;X;Atlético-MG
+;Grêmio;X;São Paulo
+;Athletico-PR;X;Botafogo
+;Fortaleza;X;Bahia
+;América-MG;X;Corinthians
+10ª;Flamengo;X;Grêmio
+;Botafogo;X;Fortaleza
+;São Paulo;X;Palmeiras
+;Corinthians;X;Cuiabá
+;Goiás;X;Fluminense
+;Atlético-MG;X;Bragantino
+;Internacional;X;Vasco
+;Coritiba;X;Santos
+;Bahia;X;Cruzeiro
+;América-MG;X;Athletico-PR
+11ª;Fluminense;X;Atlético-MG
+;Vasco;X;Goiás
+;São Paulo;X;Athletico-PR
+;Santos;X;Corinthians
+;Bragantino;X;Flamengo
+;Cruzeiro;X;Fortaleza
+;Grêmio;X;América-MG
+;Coritiba;X;Internacional
+;Bahia;X;Palmeiras
+;Cuiabá;X;Botafogo
+12ª;Fluminense;X;Bahia
+;Vasco;X;Cuiabá
+;Palmeiras;X;Botafogo
+;Santos;X;Flamengo
+;Bragantino;X;Goiás
+;Cruzeiro;X;São Paulo
+;Grêmio;X;Coritiba
+;Athletico-PR;X;Corinthians
+;Fortaleza;X;Atlético-MG
+;América-MG;X;Internacional
+13ª;Flamengo;X;Fortaleza
+;Botafogo;X;Vasco
+;São Paulo;X;Fluminense
+;Corinthians;X;Bragantino
+;Goiás;X;Coritiba
+;Atlético-MG;X;América-MG
+;Internacional;X;Cruzeiro
+;Athletico-PR;X;Palmeiras
+;Bahia;X;Grêmio
+;Cuiabá;X;Santos
+14ª;Fluminense;X;Internacional
+;Vasco;X;Cruzeiro
+;Palmeiras;X;Flamengo
+;Santos;X;Goiás
+;Bragantino;X;São Paulo
+;Atlético-MG;X;Corinthians
+;Grêmio;X;Botafogo
+;Coritiba;X;América-MG
+;Fortaleza;X;Athletico-PR
+;Cuiabá;X;Bahia
+15ª;Fluminense;X;Flamengo
+;Botafogo;X;Bragantino
+;São Paulo;X;Santos
+;Corinthians;X;Grêmio
+;Goiás;X;Atlético-MG
+;Cruzeiro;X;Coritiba
+;Internacional;X;Palmeiras
+;Athletico-PR;X;Bahia
+;Fortaleza;X;Cuiabá
+;América-MG;X;Vasco
+16ª;Flamengo;X;América-MG
+;Vasco;X;Athletico-PR
+;Palmeiras;X;Fortaleza
+;Santos;X;Botafogo
+;Bragantino;X;Internacional
+;Cruzeiro;X;Goiás
+;Grêmio;X;Atlético-MG
+;Coritiba;X;Fluminense
+;Bahia;X;Corinthians
+;Cuiabá;X;São Paulo
+17ª;Fluminense;X;Santos
+;Botafogo;X;Coritiba
+;São Paulo;X;Bahia
+;Corinthians;X;Vasco
+;Goiás;X;Grêmio
+;Atlético-MG;X;Flamengo
+;Internacional;X;Cuiabá
+;Athletico-PR;X;Cruzeiro
+;Fortaleza;X;Bragantino
+;América-MG;X;Palmeiras
+18ª;Fluminense;X;Palmeiras
+;Vasco;X;Grêmio
+;São Paulo;X;Atlético-MG
+;Santos;X;Athletico-PR
+;Goiás;X;Fortaleza
+;Cruzeiro;X;Botafogo
+;Internacional;X;Corinthians
+;Coritiba;X;Bragantino
+;Bahia;X;América-MG
+;Cuiabá;X;Flamengo
+19ª;Flamengo;X;São Paulo
+;Botafogo;X;Internacional
+;Palmeiras;X;Cruzeiro
+;Corinthians;X;Coritiba
+;Bragantino;X;Vasco
+;Atlético-MG;X;Bahia
+;Grêmio;X;Fluminense
+;Athletico-PR;X;Cuiabá
+;Fortaleza;X;Santos
+;América-MG;X;Goiás
