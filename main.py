@@ -1,97 +1,73 @@
-def ler_matriz(nome_arquivo):
-    with open(nome_arquivo, 'r', encoding='utf-8') as arquivo:
-        linhas = arquivo.readlines()
+import csv
+from pulp import LpProblem, LpVariable, lpSum, value
 
-    nomes_times = linhas[0].strip().split(';')[1:]
+# Função para ler os dados do arquivo CSV
+def ler_dados_csv(nome_arquivo):
+    with open(nome_arquivo, newline='') as arquivo:
+        leitor = csv.reader(arquivo, delimiter=';')
+        times = next(leitor)[1:]
+        matriz_distancias = [[int(distancia.replace(" Km", "").replace(",", "")) for distancia in linha[1:]] for linha in leitor]
+    return times, matriz_distancias
 
-    matriz = []
-    for linha in linhas[1:]:
-        valores = linha.strip().split(';')[1:]
-        matriz.append([float(valor.split(' ')[0]) if valor != '0 Km' else 0 for valor in valores])
+def imprimir_calendario(calendario):
+    for i, jogo in enumerate(calendario, start=1):
+        print(f"Rodada {i}: {jogo[0]} vs {jogo[1]} - Distância: {jogo[2]} Km")
 
-    return nomes_times, matriz
+def imprimir_distancia_percorrida(times_obj):
+    for time in times_obj:
+        print(f"{time}: Distância Percorrida = {sum(times_obj[time].values())} Km")
 
+def imprimir_metricas(times_obj):
+    distancias = [sum(times_obj[time].values()) for time in times_obj]
+    media_distancia = sum(distancias) / len(distancias)
+    diferenca_distancia = max(distancias) - min(distancias)
 
-def criar_mapeamento_indices(nomes_times):
-    return {nome: indice for indice, nome in enumerate(nomes_times)}
+    print(f"Média de Distância Percorrida: {media_distancia} Km")
+    print(f"Diferença do Maior para o Menor: {diferenca_distancia} Km")
 
+def gerar_calendario_ilp(times, matriz_distancias):
+    # Criar problema de programação linear inteira
+    prob = LpProblem("Calendario", sense=LpMinimize)
 
-def ler_jogos(nome_arquivo, nomes_times_matriz):
-    with open(nome_arquivo, 'r', encoding='utf-8') as arquivo:
-        linhas = arquivo.readlines()
+    # Variáveis binárias para indicar se um jogo ocorre
+    x = {(i, j): LpVariable(f"x_{i}_{j}", 0, 1, LpInteger) for i in range(len(times)) for j in range(i + 1, len(times))}
 
-    jogos = []
-    for linha in linhas[1:]:
-        rodada, time_mandante, _, time_visitante = linha.strip().split(';')
+    # Função objetivo: minimizar a distância total
+    prob += lpSum(matriz_distancias[i][j] * x[i, j] for i in range(len(times)) for j in range(i + 1, len(times))), "Distancia_Total"
 
-        # Adiciona os times ao mapeamento de índices se ainda não estiverem presentes
-        if time_mandante not in nomes_times_matriz:
-            nomes_times_matriz.append(time_mandante)
-        if time_visitante not in nomes_times_matriz:
-            nomes_times_matriz.append(time_visitante)
+    # Restrições para garantir que cada time jogue exatamente uma vez por rodada
+    for i in range(len(times)):
+        prob += lpSum(x[i, j] + x[j, i] for j in range(i + 1, len(times))) == 1, f"Restricao_unicidade_{i}"
 
-        jogos.append({'rodada': int(rodada), 'time_mandante': time_mandante, 'time_visitante': time_visitante})
+    # Restrições para garantir que cada time jogue contra todos os outros exatamente uma vez
+    for j in range(1, len(times)):
+        prob += lpSum(x[i, j] + x[j, i] for i in range(j)) == 1, f"Restricao_unicidade_contra_{j}"
 
-    return jogos
+    # Resolver o problema
+    prob.solve()
 
+    # Extrair o calendário a partir das variáveis
+    calendario = []
+    for i in range(len(times)):
+        for j in range(i + 1, len(times)):
+            if value(x[i, j]) == 1:
+                distancia_jogo = matriz_distancias[i][j]
+                jogo = (times[i], times[j], distancia_jogo)
+                calendario.append(jogo)
 
-def calcular_distancia(matriz_distancias, mapeamento_indices, jogos):
-    distancia_total = 0
-    info_times = {}
+    return calendario
 
-    for jogo in jogos:
-        indice_mandante = mapeamento_indices[jogo['time_mandante']]
-        indice_visitante = mapeamento_indices[jogo['time_visitante']]
+# Ler dados do arquivo CSV
+nome_arquivo_csv = './database/matriz-paa.csv'
+times, matriz_distancias = ler_dados_csv(nome_arquivo_csv)
 
-        distancia_time = matriz_distancias[indice_mandante][indice_visitante]
-        distancia_total += distancia_time
+# Gerar calendário usando programação linear inteira
+calendario = gerar_calendario_ilp(times, matriz_distancias)
 
-        # Adiciona informações sobre o jogo para o time mandante
-        if jogo['time_mandante'] not in info_times:
-            info_times[jogo['time_mandante']] = {'distancia_total': 0, 'oponentes': []}
-
-        info_times[jogo['time_mandante']]['distancia_total'] += distancia_time
-        info_times[jogo['time_mandante']]['oponentes'].append({jogo['time_visitante']: distancia_time})
-
-    return {'distancia_total': distancia_total, 'info_times': info_times}
-
-
-def imprimir_resultados(distancia_times, jogos, nome_arquivo_saida):
-    with open(nome_arquivo_saida, 'w', encoding='utf-8') as arquivo_saida:
-        arquivo_saida.write(f"Distância total percorrida: {distancia_times['distancia_total']} Km\n")
-        arquivo_saida.write("\nResultados por partida:\n")
-
-        for jogo in jogos:
-            time_mandante = jogo['time_mandante']
-            time_visitante = jogo['time_visitante']
-
-            # Verifica se a chave existe no dicionário antes de acessá-la
-            if (
-                    time_mandante in distancia_times['info_times']
-                    and 'oponentes' in distancia_times['info_times'][time_mandante]
-            ):
-                oponentes = distancia_times['info_times'][time_mandante]['oponentes']
-
-                # Procura a distância para o time visitante
-                distancia_partida = next(
-                    (oponente[time_visitante] for oponente in oponentes if time_visitante in oponente),
-                    "Informação não disponível",
-                )
-
-                arquivo_saida.write(
-                    f"\nRodada {jogo['rodada']} - {time_mandante} X {time_visitante} - Distância: {distancia_partida} Km\n")
-            else:
-                arquivo_saida.write(
-                    f"\nRodada {jogo['rodada']} - {time_mandante} X {time_visitante} - Distância: Informação não disponível\n")
-
-
-# Chamar as funções
-nome_arquivo_distancias = './database/matriz-paa.csv'
-nome_arquivo_jogos = './database/primeiroTurno2023.csv'
-nome_arquivo_saida = './resultados.txt'
-
-nomes_times, matriz_distancias = ler_matriz(nome_arquivo_distancias)
-mapeamento_indices = criar_mapeamento_indices(nomes_times)
-jogos = ler_jogos(nome_arquivo_jogos, nomes_times)
-distancia_times = calcular_distancia(matriz_distancias, mapeamento_indices, jogos)
-imprimir_resultados(distancia_times, jogos, nome_arquivo_saida)
+# Verificar se o calendário foi gerado corretamente
+if calendario:
+    imprimir_calendario(calendario)
+    imprimir_distancia_percorrida(times)
+    imprimir_metricas(times)
+else:
+    print("Não foi possível gerar um calendário que atenda às condições.")

@@ -1,0 +1,381 @@
+﻿Rodada;Time mandante;;Time visitante
+1;Flamengo;X;Coritiba
+1;Botafogo;X;São Paulo
+1;Palmeiras;X;Cuiabá
+1;Corinthians;X;Cruzeiro
+1;Bragantino;X;Bahia
+1;Atlético-MG;X;Vasco
+1;Grêmio;X;Santos
+1;Athletico-PR;X;Goiás
+1;Fortaleza;X;Internacional
+1;América-MG;X;Fluminense
+2;Fluminense;X;Athletico-PR
+2;Vasco;X;Palmeiras
+2;São Paulo;X;América-MG
+2;Santos;X;Atlético-MG
+2;Goiás;X;Corinthians
+2;Cruzeiro;X;Grêmio
+2;Internacional;X;Flamengo
+2;Coritiba;X;Fortaleza
+2;Bahia;X;Botafogo
+2;Cuiabá;X;Bragantino
+3;Flamengo;X;Botafogo
+3;Vasco;X;Bahia
+3;Palmeiras;X;Corinthians
+3;Santos;X;América-MG
+3;Bragantino;X;Cruzeiro
+3;Atlético-MG;X;Athletico-PR
+3;Internacional;X;Goiás
+3;Coritiba;X;São Paulo
+3;Fortaleza;X;Fluminense
+3;Cuiabá;X;Grêmio
+4;Fluminense;X;Vasco
+4;Botafogo;X;Atlético-MG
+4;São Paulo;X;Internacional
+4;Corinthians;X;Fortaleza
+4;Goiás;X;Palmeiras
+4;Cruzeiro;X;Santos
+4;Grêmio;X;Bragantino
+4;Athletico-PR;X;Flamengo
+4;Bahia;X;Coritiba
+4;América-MG;X;Cuiabá
+5;Flamengo;X;Goiás
+5;Botafogo;X;Corinthians
+5;Palmeiras;X;Grêmio
+5;Santos;X;Bahia
+5;Bragantino;X;América-MG
+5;Cruzeiro;X;Fluminense
+5;Internacional;X;Athletico-PR
+5;Coritiba;X;Vasco
+5;Fortaleza;X;São Paulo
+5;Cuiabá;X;Atlético-MG
+6;Fluminense;X;Cuiabá
+6;Vasco;X;Santos
+6;Palmeiras;X;Bragantino
+6;Corinthians;X;São Paulo
+6;Goiás;X;Botafogo
+6;Atlético-MG;X;Internacional
+6;Grêmio;X;Fortaleza
+6;Athletico-PR;X;Coritiba
+6;Bahia;X;Flamengo
+6;América-MG;X;Cruzeiro
+7;Flamengo;X;Corinthians
+7;Botafogo;X;Fluminense
+7;São Paulo;X;Vasco
+7;Santos;X;Palmeiras
+7;Bragantino;X;Athletico-PR
+7;Cruzeiro;X;Cuiabá
+7;Grêmio;X;Internacional
+7;Coritiba;X;Atlético-MG
+7;Bahia;X;Goiás
+7;América-MG;X;Fortaleza
+8;Flamengo;X;Cruzeiro
+8;Botafogo;X;América-MG
+8;São Paulo;X;Goiás
+8;Corinthians;X;Fluminense
+8;Bragantino;X;Santos
+8;Atlético-MG;X;Palmeiras
+8;Internacional;X;Bahia
+8;Athletico-PR;X;Grêmio
+8;Fortaleza;X;Vasco
+8;Cuiabá;X;Coritiba
+9;Fluminense;X;Bragantino
+9;Vasco;X;Flamengo
+9;Palmeiras;X;Coritiba
+9;Santos;X;Internacional
+9;Goiás;X;Cuiabá
+9;Cruzeiro;X;Atlético-MG
+9;Grêmio;X;São Paulo
+9;Athletico-PR;X;Botafogo
+9;Fortaleza;X;Bahia
+9;América-MG;X;Corinthians
+10;Flamengo;X;Grêmio
+10;Botafogo;X;Fortaleza
+10;São Paulo;X;Palmeiras
+10;Corinthians;X;Cuiabá
+10;Goiás;X;Fluminense
+10;Atlético-MG;X;Bragantino
+10;Internacional;X;Vasco
+10;Coritiba;X;Santos
+10;Bahia;X;Cruzeiro
+10;América-MG;X;Athletico-PR
+11;Fluminense;X;Atlético-MG
+11;Vasco;X;Goiás
+11;São Paulo;X;Athletico-PR
+11;Santos;X;Corinthians
+11;Bragantino;X;Flamengo
+11;Cruzeiro;X;Fortaleza
+11;Grêmio;X;América-MG
+11;Coritiba;X;Internacional
+11;Bahia;X;Palmeiras
+11;Cuiabá;X;Botafogo
+12;Fluminense;X;Bahia
+12;Vasco;X;Cuiabá
+12;Palmeiras;X;Botafogo
+12;Santos;X;Flamengo
+12;Bragantino;X;Goiás
+12;Cruzeiro;X;São Paulo
+12;Grêmio;X;Coritiba
+12;Athletico-PR;X;Corinthians
+12;Fortaleza;X;Atlético-MG
+12;América-MG;X;Internacional
+13;Flamengo;X;Fortaleza
+13;Botafogo;X;Vasco
+13;São Paulo;X;Fluminense
+13;Corinthians;X;Bragantino
+13;Goiás;X;Coritiba
+13;Atlético-MG;X;América-MG
+13;Internacional;X;Cruzeiro
+13;Athletico-PR;X;Palmeiras
+13;Bahia;X;Grêmio
+13;Cuiabá;X;Santos
+14;Fluminense;X;Internacional
+14;Vasco;X;Cruzeiro
+14;Palmeiras;X;Flamengo
+14;Santos;X;Goiás
+14;Bragantino;X;São Paulo
+14;Atlético-MG;X;Corinthians
+14;Grêmio;X;Botafogo
+14;Coritiba;X;América-MG
+14;Fortaleza;X;Athletico-PR
+14;Cuiabá;X;Bahia
+15;Fluminense;X;Flamengo
+15;Botafogo;X;Bragantino
+15;São Paulo;X;Santos
+15;Corinthians;X;Grêmio
+15;Goiás;X;Atlético-MG
+15;Cruzeiro;X;Coritiba
+15;Internacional;X;Palmeiras
+15;Athletico-PR;X;Bahia
+15;Fortaleza;X;Cuiabá
+15;América-MG;X;Vasco
+16;Flamengo;X;América-MG
+16;Vasco;X;Athletico-PR
+16;Palmeiras;X;Fortaleza
+16;Santos;X;Botafogo
+16;Bragantino;X;Internacional
+16;Cruzeiro;X;Goiás
+16;Grêmio;X;Atlético-MG
+16;Coritiba;X;Fluminense
+16;Bahia;X;Corinthians
+16;Cuiabá;X;São Paulo
+17;Fluminense;X;Santos
+17;Botafogo;X;Coritiba
+17;São Paulo;X;Bahia
+17;Corinthians;X;Vasco
+17;Goiás;X;Grêmio
+17;Atlético-MG;X;Flamengo
+17;Internacional;X;Cuiabá
+17;Athletico-PR;X;Cruzeiro
+17;Fortaleza;X;Bragantino
+17;América-MG;X;Palmeiras
+18;Fluminense;X;Palmeiras
+18;Vasco;X;Grêmio
+18;São Paulo;X;Atlético-MG
+18;Santos;X;Athletico-PR
+18;Goiás;X;Fortaleza
+18;Cruzeiro;X;Botafogo
+18;Internacional;X;Corinthians
+18;Coritiba;X;Bragantino
+18;Bahia;X;América-MG
+18;Cuiabá;X;Flamengo
+19;Flamengo;X;São Paulo
+19;Botafogo;X;Internacional
+19;Palmeiras;X;Cruzeiro
+19;Corinthians;X;Coritiba
+19;Bragantino;X;Vasco
+19;Atlético-MG;X;Bahia
+19;Grêmio;X;Fluminense
+19;Athletico-PR;X;Cuiabá
+19;Fortaleza;X;Santos
+19;América-MG;X;Goiás
+20;Fluminense;X;América-MG
+20;Vasco;X;Atlético-MG
+20;São Paulo;X;Botafogo
+20;Santos;X;Grêmio
+20;Goiás;X;Athletico-PR
+20;Cruzeiro;X;Corinthians
+20;Internacional;X;Fortaleza
+20;Coritiba;X;Flamengo
+20;Bahia;X;Bragantino
+20;Cuiabá;X;Palmeiras
+21;Flamengo;X;Internacional
+21;Botafogo;X;Bahia
+21;Palmeiras;X;Vasco
+21;Corinthians;X;Goiás
+21;Bragantino;X;Cuiabá
+21;Atlético-MG;X;Santos
+21;Grêmio;X;Cruzeiro
+21;Athletico-PR;X;Fluminense
+21;Fortaleza;X;Coritiba
+21;América-MG;X;São Paulo
+22;Fluminense;X;Fortaleza
+22;Botafogo;X;Flamengo
+22;São Paulo;X;Coritiba
+22;Corinthians;X;Palmeiras
+22;Goiás;X;Internacional
+22;Cruzeiro;X;Bragantino
+22;Grêmio;X;Cuiabá
+22;Athletico-PR;X;Atlético-MG
+22;Bahia;X;Vasco
+22;América-MG;X;Santos
+23;Flamengo;X;Athletico-PR
+23;Vasco;X;Fluminense
+23;Palmeiras;X;Goiás
+23;Santos;X;Cruzeiro
+23;Bragantino;X;Grêmio
+23;Atlético-MG;X;Botafogo
+23;Internacional;X;São Paulo
+23;Coritiba;X;Bahia
+23;Fortaleza;X;Corinthians
+23;Cuiabá;X;América-MG
+24;Fluminense;X;Cruzeiro
+24;Vasco;X;Coritiba
+24;São Paulo;X;Fortaleza
+24;Corinthians;X;Botafogo
+24;Goiás;X;Flamengo
+24;Atlético-MG;X;Cuiabá
+24;Grêmio;X;Palmeiras
+24;Athletico-PR;X;Internacional
+24;Bahia;X;Santos
+24;América-MG;X;Bragantino
+25;Flamengo;X;Bahia
+25;Botafogo;X;Goiás
+25;São Paulo;X;Corinthians
+25;Santos;X;Vasco
+25;Bragantino;X;Palmeiras
+25;Cruzeiro;X;América-MG
+25;Internacional;X;Atlético-MG
+25;Coritiba;X;Athletico-PR
+25;Fortaleza;X;Grêmio
+25;Cuiabá;X;Fluminense
+26;Fluminense;X;Botafogo
+26;Vasco;X;São Paulo
+26;Palmeiras;X;Santos
+26;Corinthians;X;Flamengo
+26;Goiás;X;Bahia
+26;Atlético-MG;X;Coritiba
+26;Internacional;X;Grêmio
+26;Athletico-PR;X;Bragantino
+26;Fortaleza;X;América-MG
+26;Cuiabá;X;Cruzeiro
+27;Fluminense;X;Corinthians
+27;Vasco;X;Fortaleza
+27;Palmeiras;X;Atlético-MG
+27;Santos;X;Bragantino
+27;Goiás;X;São Paulo
+27;Cruzeiro;X;Flamengo
+27;Grêmio;X;Athletico-PR
+27;Coritiba;X;Cuiabá
+27;Bahia;X;Internacional
+27;América-MG;X;Botafogo
+28;Flamengo;X;Vasco
+28;Botafogo;X;Athletico-PR
+28;São Paulo;X;Grêmio
+28;Corinthians;X;América-MG
+28;Bragantino;X;Fluminense
+28;Atlético-MG;X;Cruzeiro
+28;Internacional;X;Santos
+28;Coritiba;X;Palmeiras
+28;Bahia;X;Fortaleza
+28;Cuiabá;X;Goiás
+29;Fluminense;X;Goiás
+29;Vasco;X;Internacional
+29;Palmeiras;X;São Paulo
+29;Santos;X;Coritiba
+29;Bragantino;X;Atlético-MG
+29;Cruzeiro;X;Bahia
+29;Grêmio;X;Flamengo
+29;Athletico-PR;X;América-MG
+29;Fortaleza;X;Botafogo
+29;Cuiabá;X;Corinthians
+30;Flamengo;X;Bragantino
+30;Botafogo;X;Cuiabá
+30;Palmeiras;X;Bahia
+30;Corinthians;X;Santos
+30;Goiás;X;Vasco
+30;Atlético-MG;X;Fluminense
+30;Internacional;X;Coritiba
+30;Athletico-PR;X;São Paulo
+30;Fortaleza;X;Cruzeiro
+30;América-MG;X;Grêmio
+31;Flamengo;X;Santos
+31;Botafogo;X;Palmeiras
+31;São Paulo;X;Cruzeiro
+31;Corinthians;X;Athletico-PR
+31;Goiás;X;Bragantino
+31;Atlético-MG;X;Fortaleza
+31;Internacional;X;América-MG
+31;Coritiba;X;Grêmio
+31;Bahia;X;Fluminense
+31;Cuiabá;X;Vasco
+32;Fluminense;X;São Paulo
+32;Vasco;X;Botafogo
+32;Palmeiras;X;Athletico-PR
+32;Santos;X;Cuiabá
+32;Bragantino;X;Corinthians
+32;Cruzeiro;X;Internacional
+32;Grêmio;X;Bahia
+32;Coritiba;X;Goiás
+32;Fortaleza;X;Flamengo
+32;América-MG;X;Atlético-MG
+33;Flamengo;X;Palmeiras
+33;Botafogo;X;Grêmio
+33;São Paulo;X;Bragantino
+33;Corinthians;X;Atlético-MG
+33;Goiás;X;Santos
+33;Cruzeiro;X;Vasco
+33;Internacional;X;Fluminense
+33;Athletico-PR;X;Fortaleza
+33;Bahia;X;Cuiabá
+33;América-MG;X;Coritiba
+34;Flamengo;X;Fluminense
+34;Vasco;X;América-MG
+34;Palmeiras;X;Internacional
+34;Santos;X;São Paulo
+34;Bragantino;X;Botafogo
+34;Atlético-MG;X;Goiás
+34;Grêmio;X;Corinthians
+34;Coritiba;X;Cruzeiro
+34;Bahia;X;Athletico-PR
+34;Cuiabá;X;Fortaleza
+35;Fluminense;X;Coritiba
+35;Botafogo;X;Santos
+35;São Paulo;X;Cuiabá
+35;Corinthians;X;Bahia
+35;Goiás;X;Cruzeiro
+35;Atlético-MG;X;Grêmio
+35;Internacional;X;Bragantino
+35;Athletico-PR;X;Vasco
+35;Fortaleza;X;Palmeiras
+35;América-MG;X;Flamengo
+36;Flamengo;X;Atlético-MG
+36;Vasco;X;Corinthians
+36;Palmeiras;X;América-MG
+36;Santos;X;Fluminense
+36;Bragantino;X;Fortaleza
+36;Cruzeiro;X;Athletico-PR
+36;Grêmio;X;Goiás
+36;Coritiba;X;Botafogo
+36;Bahia;X;São Paulo
+36;Cuiabá;X;Internacional
+37;Flamengo;X;Cuiabá
+37;Botafogo;X;Cruzeiro
+37;Palmeiras;X;Fluminense
+37;Corinthians;X;Internacional
+37;Bragantino;X;Coritiba
+37;Atlético-MG;X;São Paulo
+37;Grêmio;X;Vasco
+37;Athletico-PR;X;Santos
+37;Fortaleza;X;Goiás
+37;América-MG;X;Bahia
+38;Fluminense;X;Grêmio
+38;Vasco;X;Bragantino
+38;São Paulo;X;Flamengo
+38;Santos;X;Fortaleza
+38;Goiás;X;América-MG
+38;Cruzeiro;X;Palmeiras
+38;Internacional;X;Botafogo
+38;Coritiba;X;Corinthians
+38;Bahia;X;Atlético-MG
+38;Cuiabá;X;Athletico-PR

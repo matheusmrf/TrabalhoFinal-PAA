@@ -1,0 +1,763 @@
+Distância total percorrida: 337617.0 Km
+
+Resultados por partida:
+
+Rodada 1 - Flamengo X Coritiba - Distância: 674.0 Km
+
+Rodada 1 - Botafogo X São Paulo - Distância: 360.0 Km
+
+Rodada 1 - Palmeiras X Cuiabá - Distância: 1327.0 Km
+
+Rodada 1 - Corinthians X Cruzeiro - Distância: 491.0 Km
+
+Rodada 1 - Bragantino X Bahia - Distância: 1398.0 Km
+
+Rodada 1 - Atlético-MG X Vasco - Distância: 349.0 Km
+
+Rodada 1 - Grêmio X Santos - Distância: 831.0 Km
+
+Rodada 1 - Athletico-PR X Goiás - Distância: 975.0 Km
+
+Rodada 1 - Fortaleza X Internacional - Distância: 3217.0 Km
+
+Rodada 1 - América-MG X Fluminense - Distância: 349.0 Km
+
+Rodada 2 - Fluminense X Athletico-PR - Distância: 674.0 Km
+
+Rodada 2 - Vasco X Palmeiras - Distância: 360.0 Km
+
+Rodada 2 - São Paulo X América-MG - Distância: 491.0 Km
+
+Rodada 2 - Santos X Atlético-MG - Distância: 511.0 Km
+
+Rodada 2 - Goiás X Corinthians - Distância: 813.0 Km
+
+Rodada 2 - Cruzeiro X Grêmio - Distância: 1343.0 Km
+
+Rodada 2 - Internacional X Flamengo - Distância: 1120.0 Km
+
+Rodada 2 - Coritiba X Fortaleza - Distância: 2673.0 Km
+
+Rodada 2 - Bahia X Botafogo - Distância: 1212.0 Km
+
+Rodada 2 - Cuiabá X Bragantino - Distância: 1294.0 Km
+
+Rodada 3 - Flamengo X Botafogo - Distância: 1.0 Km
+
+Rodada 3 - Vasco X Bahia - Distância: 1212.0 Km
+
+Rodada 3 - Palmeiras X Corinthians - Distância: 1.0 Km
+
+Rodada 3 - Santos X América-MG - Distância: 511.0 Km
+
+Rodada 3 - Bragantino X Cruzeiro - Distância: 430.0 Km
+
+Rodada 3 - Atlético-MG X Athletico-PR - Distância: 821.0 Km
+
+Rodada 3 - Internacional X Goiás - Distância: 1498.0 Km
+
+Rodada 3 - Coritiba X São Paulo - Distância: 337.0 Km
+
+Rodada 3 - Fortaleza X Fluminense - Distância: 2200.0 Km
+
+Rodada 3 - Cuiabá X Grêmio - Distância: 1681.0 Km
+
+Rodada 4 - Fluminense X Vasco - Distância: 1.0 Km
+
+Rodada 4 - Botafogo X Atlético-MG - Distância: 349.0 Km
+
+Rodada 4 - São Paulo X Internacional - Distância: 851.0 Km
+
+Rodada 4 - Corinthians X Fortaleza - Distância: 2373.0 Km
+
+Rodada 4 - Goiás X Palmeiras - Distância: 813.0 Km
+
+Rodada 4 - Cruzeiro X Santos - Distância: 513.0 Km
+
+Rodada 4 - Grêmio X Bragantino - Distância: 915.0 Km
+
+Rodada 4 - Athletico-PR X Flamengo - Distância: 674.0 Km
+
+Rodada 4 - Bahia X Coritiba - Distância: 1788.0 Km
+
+Rodada 4 - América-MG X Cuiabá - Distância: 1374.0 Km
+
+Rodada 5 - Flamengo X Goiás - Distância: 938.0 Km
+
+Rodada 5 - Botafogo X Corinthians - Distância: 360.0 Km
+
+Rodada 5 - Palmeiras X Grêmio - Distância: 851.0 Km
+
+Rodada 5 - Santos X Bahia - Distância: 1474.0 Km
+
+Rodada 5 - Bragantino X América-MG - Distância: 430.0 Km
+
+Rodada 5 - Cruzeiro X Fluminense - Distância: 349.0 Km
+
+Rodada 5 - Internacional X Athletico-PR - Distância: 546.0 Km
+
+Rodada 5 - Coritiba X Vasco - Distância: 674.0 Km
+
+Rodada 5 - Fortaleza X São Paulo - Distância: 2373.0 Km
+
+Rodada 5 - Cuiabá X Atlético-MG - Distância: 1375.0 Km
+
+Rodada 6 - Fluminense X Cuiabá - Distância: 1577.0 Km
+
+Rodada 6 - Vasco X Santos - Distância: 340.0 Km
+
+Rodada 6 - Palmeiras X Bragantino - Distância: 69.0 Km
+
+Rodada 6 - Corinthians X São Paulo - Distância: 1.0 Km
+
+Rodada 6 - Goiás X Botafogo - Distância: 946.0 Km
+
+Rodada 6 - Atlético-MG X Internacional - Distância: 1343.0 Km
+
+Rodada 6 - Grêmio X Fortaleza - Distância: 3215.0 Km
+
+Rodada 6 - Athletico-PR X Coritiba - Distância: 1.0 Km
+
+Rodada 6 - Bahia X Flamengo - Distância: 1212.0 Km
+
+Rodada 6 - América-MG X Cruzeiro - Distância: 1.0 Km
+
+Rodada 7 - Flamengo X Corinthians - Distância: 360.0 Km
+
+Rodada 7 - Botafogo X Fluminense - Distância: 1.0 Km
+
+Rodada 7 - São Paulo X Vasco - Distância: 360.0 Km
+
+Rodada 7 - Santos X Palmeiras - Distância: 56.0 Km
+
+Rodada 7 - Bragantino X Athletico-PR - Distância: 392.0 Km
+
+Rodada 7 - Cruzeiro X Cuiabá - Distância: 1374.0 Km
+
+Rodada 7 - Grêmio X Internacional - Distância: 1.0 Km
+
+Rodada 7 - Coritiba X Atlético-MG - Distância: 821.0 Km
+
+Rodada 7 - Bahia X Goiás - Distância: 1227.0 Km
+
+Rodada 7 - América-MG X Fortaleza - Distância: 1895.0 Km
+
+Rodada 8 - Flamengo X Cruzeiro - Distância: 349.0 Km
+
+Rodada 8 - Botafogo X América-MG - Distância: 349.0 Km
+
+Rodada 8 - São Paulo X Goiás - Distância: 813.0 Km
+
+Rodada 8 - Corinthians X Fluminense - Distância: 360.0 Km
+
+Rodada 8 - Bragantino X Santos - Distância: 115.0 Km
+
+Rodada 8 - Atlético-MG X Palmeiras - Distância: 493.0 Km
+
+Rodada 8 - Internacional X Bahia - Distância: 2305.0 Km
+
+Rodada 8 - Athletico-PR X Grêmio - Distância: 546.0 Km
+
+Rodada 8 - Fortaleza X Vasco - Distância: 2200.0 Km
+
+Rodada 8 - Cuiabá X Coritiba - Distância: 1304.0 Km
+
+Rodada 9 - Fluminense X Bragantino - Distância: 343.0 Km
+
+Rodada 9 - Vasco X Flamengo - Distância: 1.0 Km
+
+Rodada 9 - Palmeiras X Coritiba - Distância: 338.0 Km
+
+Rodada 9 - Santos X Internacional - Distância: 832.0 Km
+
+Rodada 9 - Goiás X Cuiabá - Distância: 741.0 Km
+
+Rodada 9 - Cruzeiro X Atlético-MG - Distância: 1.0 Km
+
+Rodada 9 - Grêmio X São Paulo - Distância: 850.0 Km
+
+Rodada 9 - Athletico-PR X Botafogo - Distância: 674.0 Km
+
+Rodada 9 - Fortaleza X Bahia - Distância: 1029.0 Km
+
+Rodada 9 - América-MG X Corinthians - Distância: 493.0 Km
+
+Rodada 10 - Flamengo X Grêmio - Distância: 1125.0 Km
+
+Rodada 10 - Botafogo X Fortaleza - Distância: 2192.0 Km
+
+Rodada 10 - São Paulo X Palmeiras - Distância: 1.0 Km
+
+Rodada 10 - Corinthians X Cuiabá - Distância: 1327.0 Km
+
+Rodada 10 - Goiás X Fluminense - Distância: 946.0 Km
+
+Rodada 10 - Atlético-MG X Bragantino - Distância: 423.0 Km
+
+Rodada 10 - Internacional X Vasco - Distância: 1120.0 Km
+
+Rodada 10 - Coritiba X Santos - Distância: 340.0 Km
+
+Rodada 10 - Bahia X Cruzeiro - Distância: 966.0 Km
+
+Rodada 10 - América-MG X Athletico-PR - Distância: 821.0 Km
+
+Rodada 11 - Fluminense X Atlético-MG - Distância: 349.0 Km
+
+Rodada 11 - Vasco X Goiás - Distância: 938.0 Km
+
+Rodada 11 - São Paulo X Athletico-PR - Distância: 338.0 Km
+
+Rodada 11 - Santos X Corinthians - Distância: 56.0 Km
+
+Rodada 11 - Bragantino X Flamengo - Distância: 343.0 Km
+
+Rodada 11 - Cruzeiro X Fortaleza - Distância: 1895.0 Km
+
+Rodada 11 - Grêmio X América-MG - Distância: 1341.0 Km
+
+Rodada 11 - Coritiba X Internacional - Distância: 546.0 Km
+
+Rodada 11 - Bahia X Palmeiras - Distância: 1458.0 Km
+
+Rodada 11 - Cuiabá X Botafogo - Distância: 1582.0 Km
+
+Rodada 12 - Fluminense X Bahia - Distância: 1212.0 Km
+
+Rodada 12 - Vasco X Cuiabá - Distância: 1577.0 Km
+
+Rodada 12 - Palmeiras X Botafogo - Distância: 360.0 Km
+
+Rodada 12 - Santos X Flamengo - Distância: 338.0 Km
+
+Rodada 12 - Bragantino X Goiás - Distância: 753.0 Km
+
+Rodada 12 - Cruzeiro X São Paulo - Distância: 493.0 Km
+
+Rodada 12 - Grêmio X Coritiba - Distância: 546.0 Km
+
+Rodada 12 - Athletico-PR X Corinthians - Distância: 337.0 Km
+
+Rodada 12 - Fortaleza X Atlético-MG - Distância: 1897.0 Km
+
+Rodada 12 - América-MG X Internacional - Distância: 1343.0 Km
+
+Rodada 13 - Flamengo X Fortaleza - Distância: 2192.0 Km
+
+Rodada 13 - Botafogo X Vasco - Distância: 1.0 Km
+
+Rodada 13 - São Paulo X Fluminense - Distância: 360.0 Km
+
+Rodada 13 - Corinthians X Bragantino - Distância: 69.0 Km
+
+Rodada 13 - Goiás X Coritiba - Distância: 975.0 Km
+
+Rodada 13 - Atlético-MG X América-MG - Distância: 1.0 Km
+
+Rodada 13 - Internacional X Cruzeiro - Distância: 1341.0 Km
+
+Rodada 13 - Athletico-PR X Palmeiras - Distância: 337.0 Km
+
+Rodada 13 - Bahia X Grêmio - Distância: 2306.0 Km
+
+Rodada 13 - Cuiabá X Santos - Distância: 1381.0 Km
+
+Rodada 14 - Fluminense X Internacional - Distância: 1125.0 Km
+
+Rodada 14 - Vasco X Cruzeiro - Distância: 349.0 Km
+
+Rodada 14 - Palmeiras X Flamengo - Distância: 360.0 Km
+
+Rodada 14 - Santos X Goiás - Distância: 866.0 Km
+
+Rodada 14 - Bragantino X São Paulo - Distância: 69.0 Km
+
+Rodada 14 - Atlético-MG X Corinthians - Distância: 493.0 Km
+
+Rodada 14 - Grêmio X Botafogo - Distância: 1120.0 Km
+
+Rodada 14 - Coritiba X América-MG - Distância: 821.0 Km
+
+Rodada 14 - Fortaleza X Athletico-PR - Distância: 2674.0 Km
+
+Rodada 14 - Cuiabá X Bahia - Distância: 1918.0 Km
+
+Rodada 15 - Fluminense X Flamengo - Distância: 1.0 Km
+
+Rodada 15 - Botafogo X Bragantino - Distância: 343.0 Km
+
+Rodada 15 - São Paulo X Santos - Distância: 56.0 Km
+
+Rodada 15 - Corinthians X Grêmio - Distância: 851.0 Km
+
+Rodada 15 - Goiás X Atlético-MG - Distância: 670.0 Km
+
+Rodada 15 - Cruzeiro X Coritiba - Distância: 821.0 Km
+
+Rodada 15 - Internacional X Palmeiras - Distância: 850.0 Km
+
+Rodada 15 - Athletico-PR X Bahia - Distância: 1788.0 Km
+
+Rodada 15 - Fortaleza X Cuiabá - Distância: 2331.0 Km
+
+Rodada 15 - América-MG X Vasco - Distância: 349.0 Km
+
+Rodada 16 - Flamengo X América-MG - Distância: 349.0 Km
+
+Rodada 16 - Vasco X Athletico-PR - Distância: 674.0 Km
+
+Rodada 16 - Palmeiras X Fortaleza - Distância: 2373.0 Km
+
+Rodada 16 - Santos X Botafogo - Distância: 338.0 Km
+
+Rodada 16 - Bragantino X Internacional - Distância: 916.0 Km
+
+Rodada 16 - Cruzeiro X Goiás - Distância: 667.0 Km
+
+Rodada 16 - Grêmio X Atlético-MG - Distância: 1341.0 Km
+
+Rodada 16 - Coritiba X Fluminense - Distância: 674.0 Km
+
+Rodada 16 - Bahia X Corinthians - Distância: 1458.0 Km
+
+Rodada 16 - Cuiabá X São Paulo - Distância: 1327.0 Km
+
+Rodada 17 - Fluminense X Santos - Distância: 340.0 Km
+
+Rodada 17 - Botafogo X Coritiba - Distância: 674.0 Km
+
+Rodada 17 - São Paulo X Bahia - Distância: 1458.0 Km
+
+Rodada 17 - Corinthians X Vasco - Distância: 360.0 Km
+
+Rodada 17 - Goiás X Grêmio - Distância: 1499.0 Km
+
+Rodada 17 - Atlético-MG X Flamengo - Distância: 349.0 Km
+
+Rodada 17 - Internacional X Cuiabá - Distância: 1680.0 Km
+
+Rodada 17 - Athletico-PR X Cruzeiro - Distância: 821.0 Km
+
+Rodada 17 - Fortaleza X Bragantino - Distância: 2306.0 Km
+
+Rodada 17 - América-MG X Palmeiras - Distância: 493.0 Km
+
+Rodada 18 - Fluminense X Palmeiras - Distância: 360.0 Km
+
+Rodada 18 - Vasco X Grêmio - Distância: 1125.0 Km
+
+Rodada 18 - São Paulo X Atlético-MG - Distância: 491.0 Km
+
+Rodada 18 - Santos X Athletico-PR - Distância: 341.0 Km
+
+Rodada 18 - Goiás X Fortaleza - Distância: 1857.0 Km
+
+Rodada 18 - Cruzeiro X Botafogo - Distância: 349.0 Km
+
+Rodada 18 - Internacional X Corinthians - Distância: 850.0 Km
+
+Rodada 18 - Coritiba X Bragantino - Distância: 392.0 Km
+
+Rodada 18 - Bahia X América-MG - Distância: 966.0 Km
+
+Rodada 18 - Cuiabá X Flamengo - Distância: 1582.0 Km
+
+Rodada 19 - Flamengo X São Paulo - Distância: 360.0 Km
+
+Rodada 19 - Botafogo X Internacional - Distância: 1125.0 Km
+
+Rodada 19 - Palmeiras X Cruzeiro - Distância: 491.0 Km
+
+Rodada 19 - Corinthians X Coritiba - Distância: 338.0 Km
+
+Rodada 19 - Bragantino X Vasco - Distância: 343.0 Km
+
+Rodada 19 - Atlético-MG X Bahia - Distância: 966.0 Km
+
+Rodada 19 - Grêmio X Fluminense - Distância: 1120.0 Km
+
+Rodada 19 - Athletico-PR X Cuiabá - Distância: 1304.0 Km
+
+Rodada 19 - Fortaleza X Santos - Distância: 2401.0 Km
+
+Rodada 19 - América-MG X Goiás - Distância: 667.0 Km
+
+Rodada 20 - Fluminense X América-MG - Distância: 349.0 Km
+
+Rodada 20 - Vasco X Atlético-MG - Distância: 349.0 Km
+
+Rodada 20 - São Paulo X Botafogo - Distância: 360.0 Km
+
+Rodada 20 - Santos X Grêmio - Distância: 832.0 Km
+
+Rodada 20 - Goiás X Athletico-PR - Distância: 975.0 Km
+
+Rodada 20 - Cruzeiro X Corinthians - Distância: 493.0 Km
+
+Rodada 20 - Internacional X Fortaleza - Distância: 3215.0 Km
+
+Rodada 20 - Coritiba X Flamengo - Distância: 674.0 Km
+
+Rodada 20 - Bahia X Bragantino - Distância: 1398.0 Km
+
+Rodada 20 - Cuiabá X Palmeiras - Distância: 1327.0 Km
+
+Rodada 21 - Flamengo X Internacional - Distância: 1125.0 Km
+
+Rodada 21 - Botafogo X Bahia - Distância: 1212.0 Km
+
+Rodada 21 - Palmeiras X Vasco - Distância: 360.0 Km
+
+Rodada 21 - Corinthians X Goiás - Distância: 813.0 Km
+
+Rodada 21 - Bragantino X Cuiabá - Distância: 1293.0 Km
+
+Rodada 21 - Atlético-MG X Santos - Distância: 513.0 Km
+
+Rodada 21 - Grêmio X Cruzeiro - Distância: 1341.0 Km
+
+Rodada 21 - Athletico-PR X Fluminense - Distância: 674.0 Km
+
+Rodada 21 - Fortaleza X Coritiba - Distância: 2674.0 Km
+
+Rodada 21 - América-MG X São Paulo - Distância: 493.0 Km
+
+Rodada 22 - Fluminense X Fortaleza - Distância: 2192.0 Km
+
+Rodada 22 - Botafogo X Flamengo - Distância: 1.0 Km
+
+Rodada 22 - São Paulo X Coritiba - Distância: 338.0 Km
+
+Rodada 22 - Corinthians X Palmeiras - Distância: 1.0 Km
+
+Rodada 22 - Goiás X Internacional - Distância: 1499.0 Km
+
+Rodada 22 - Cruzeiro X Bragantino - Distância: 423.0 Km
+
+Rodada 22 - Grêmio X Cuiabá - Distância: 1680.0 Km
+
+Rodada 22 - Athletico-PR X Atlético-MG - Distância: 821.0 Km
+
+Rodada 22 - Bahia X Vasco - Distância: 1212.0 Km
+
+Rodada 22 - América-MG X Santos - Distância: 513.0 Km
+
+Rodada 23 - Flamengo X Athletico-PR - Distância: 674.0 Km
+
+Rodada 23 - Vasco X Fluminense - Distância: 1.0 Km
+
+Rodada 23 - Palmeiras X Goiás - Distância: 813.0 Km
+
+Rodada 23 - Santos X Cruzeiro - Distância: 511.0 Km
+
+Rodada 23 - Bragantino X Grêmio - Distância: 916.0 Km
+
+Rodada 23 - Atlético-MG X Botafogo - Distância: 349.0 Km
+
+Rodada 23 - Internacional X São Paulo - Distância: 850.0 Km
+
+Rodada 23 - Coritiba X Bahia - Distância: 1788.0 Km
+
+Rodada 23 - Fortaleza X Corinthians - Distância: 2373.0 Km
+
+Rodada 23 - Cuiabá X América-MG - Distância: 1375.0 Km
+
+Rodada 24 - Fluminense X Cruzeiro - Distância: 349.0 Km
+
+Rodada 24 - Vasco X Coritiba - Distância: 674.0 Km
+
+Rodada 24 - São Paulo X Fortaleza - Distância: 2373.0 Km
+
+Rodada 24 - Corinthians X Botafogo - Distância: 360.0 Km
+
+Rodada 24 - Goiás X Flamengo - Distância: 946.0 Km
+
+Rodada 24 - Atlético-MG X Cuiabá - Distância: 1374.0 Km
+
+Rodada 24 - Grêmio X Palmeiras - Distância: 850.0 Km
+
+Rodada 24 - Athletico-PR X Internacional - Distância: 546.0 Km
+
+Rodada 24 - Bahia X Santos - Distância: 1474.0 Km
+
+Rodada 24 - América-MG X Bragantino - Distância: 423.0 Km
+
+Rodada 25 - Flamengo X Bahia - Distância: 1212.0 Km
+
+Rodada 25 - Botafogo X Goiás - Distância: 938.0 Km
+
+Rodada 25 - São Paulo X Corinthians - Distância: 1.0 Km
+
+Rodada 25 - Santos X Vasco - Distância: 338.0 Km
+
+Rodada 25 - Bragantino X Palmeiras - Distância: 69.0 Km
+
+Rodada 25 - Cruzeiro X América-MG - Distância: 1.0 Km
+
+Rodada 25 - Internacional X Atlético-MG - Distância: 1341.0 Km
+
+Rodada 25 - Coritiba X Athletico-PR - Distância: 1.0 Km
+
+Rodada 25 - Fortaleza X Grêmio - Distância: 3217.0 Km
+
+Rodada 25 - Cuiabá X Fluminense - Distância: 1582.0 Km
+
+Rodada 26 - Fluminense X Botafogo - Distância: 1.0 Km
+
+Rodada 26 - Vasco X São Paulo - Distância: 360.0 Km
+
+Rodada 26 - Palmeiras X Santos - Distância: 56.0 Km
+
+Rodada 26 - Corinthians X Flamengo - Distância: 360.0 Km
+
+Rodada 26 - Goiás X Bahia - Distância: 1227.0 Km
+
+Rodada 26 - Atlético-MG X Coritiba - Distância: 821.0 Km
+
+Rodada 26 - Internacional X Grêmio - Distância: 1.0 Km
+
+Rodada 26 - Athletico-PR X Bragantino - Distância: 392.0 Km
+
+Rodada 26 - Fortaleza X América-MG - Distância: 1897.0 Km
+
+Rodada 26 - Cuiabá X Cruzeiro - Distância: 1375.0 Km
+
+Rodada 27 - Fluminense X Corinthians - Distância: 360.0 Km
+
+Rodada 27 - Vasco X Fortaleza - Distância: 2192.0 Km
+
+Rodada 27 - Palmeiras X Atlético-MG - Distância: 491.0 Km
+
+Rodada 27 - Santos X Bragantino - Distância: 115.0 Km
+
+Rodada 27 - Goiás X São Paulo - Distância: 813.0 Km
+
+Rodada 27 - Cruzeiro X Flamengo - Distância: 349.0 Km
+
+Rodada 27 - Grêmio X Athletico-PR - Distância: 546.0 Km
+
+Rodada 27 - Coritiba X Cuiabá - Distância: 1304.0 Km
+
+Rodada 27 - Bahia X Internacional - Distância: 2306.0 Km
+
+Rodada 27 - América-MG X Botafogo - Distância: 349.0 Km
+
+Rodada 28 - Flamengo X Vasco - Distância: 1.0 Km
+
+Rodada 28 - Botafogo X Athletico-PR - Distância: 674.0 Km
+
+Rodada 28 - São Paulo X Grêmio - Distância: 851.0 Km
+
+Rodada 28 - Corinthians X América-MG - Distância: 491.0 Km
+
+Rodada 28 - Bragantino X Fluminense - Distância: 343.0 Km
+
+Rodada 28 - Atlético-MG X Cruzeiro - Distância: 1.0 Km
+
+Rodada 28 - Internacional X Santos - Distância: 831.0 Km
+
+Rodada 28 - Coritiba X Palmeiras - Distância: 337.0 Km
+
+Rodada 28 - Bahia X Fortaleza - Distância: 1029.0 Km
+
+Rodada 28 - Cuiabá X Goiás - Distância: 741.0 Km
+
+Rodada 29 - Fluminense X Goiás - Distância: 938.0 Km
+
+Rodada 29 - Vasco X Internacional - Distância: 1125.0 Km
+
+Rodada 29 - Palmeiras X São Paulo - Distância: 1.0 Km
+
+Rodada 29 - Santos X Coritiba - Distância: 341.0 Km
+
+Rodada 29 - Bragantino X Atlético-MG - Distância: 430.0 Km
+
+Rodada 29 - Cruzeiro X Bahia - Distância: 966.0 Km
+
+Rodada 29 - Grêmio X Flamengo - Distância: 1120.0 Km
+
+Rodada 29 - Athletico-PR X América-MG - Distância: 821.0 Km
+
+Rodada 29 - Fortaleza X Botafogo - Distância: 2200.0 Km
+
+Rodada 29 - Cuiabá X Corinthians - Distância: 1327.0 Km
+
+Rodada 30 - Flamengo X Bragantino - Distância: 343.0 Km
+
+Rodada 30 - Botafogo X Cuiabá - Distância: 1577.0 Km
+
+Rodada 30 - Palmeiras X Bahia - Distância: 1458.0 Km
+
+Rodada 30 - Corinthians X Santos - Distância: 56.0 Km
+
+Rodada 30 - Goiás X Vasco - Distância: 946.0 Km
+
+Rodada 30 - Atlético-MG X Fluminense - Distância: 349.0 Km
+
+Rodada 30 - Internacional X Coritiba - Distância: 546.0 Km
+
+Rodada 30 - Athletico-PR X São Paulo - Distância: 337.0 Km
+
+Rodada 30 - Fortaleza X Cruzeiro - Distância: 1897.0 Km
+
+Rodada 30 - América-MG X Grêmio - Distância: 1343.0 Km
+
+Rodada 31 - Flamengo X Santos - Distância: 340.0 Km
+
+Rodada 31 - Botafogo X Palmeiras - Distância: 360.0 Km
+
+Rodada 31 - São Paulo X Cruzeiro - Distância: 491.0 Km
+
+Rodada 31 - Corinthians X Athletico-PR - Distância: 338.0 Km
+
+Rodada 31 - Goiás X Bragantino - Distância: 754.0 Km
+
+Rodada 31 - Atlético-MG X Fortaleza - Distância: 1895.0 Km
+
+Rodada 31 - Internacional X América-MG - Distância: 1341.0 Km
+
+Rodada 31 - Coritiba X Grêmio - Distância: 546.0 Km
+
+Rodada 31 - Bahia X Fluminense - Distância: 1212.0 Km
+
+Rodada 31 - Cuiabá X Vasco - Distância: 1582.0 Km
+
+Rodada 32 - Fluminense X São Paulo - Distância: 360.0 Km
+
+Rodada 32 - Vasco X Botafogo - Distância: 1.0 Km
+
+Rodada 32 - Palmeiras X Athletico-PR - Distância: 338.0 Km
+
+Rodada 32 - Santos X Cuiabá - Distância: 1381.0 Km
+
+Rodada 32 - Bragantino X Corinthians - Distância: 69.0 Km
+
+Rodada 32 - Cruzeiro X Internacional - Distância: 1343.0 Km
+
+Rodada 32 - Grêmio X Bahia - Distância: 2305.0 Km
+
+Rodada 32 - Coritiba X Goiás - Distância: 975.0 Km
+
+Rodada 32 - Fortaleza X Flamengo - Distância: 2200.0 Km
+
+Rodada 32 - América-MG X Atlético-MG - Distância: 1.0 Km
+
+Rodada 33 - Flamengo X Palmeiras - Distância: 360.0 Km
+
+Rodada 33 - Botafogo X Grêmio - Distância: 1125.0 Km
+
+Rodada 33 - São Paulo X Bragantino - Distância: 69.0 Km
+
+Rodada 33 - Corinthians X Atlético-MG - Distância: 491.0 Km
+
+Rodada 33 - Goiás X Santos - Distância: 866.0 Km
+
+Rodada 33 - Cruzeiro X Vasco - Distância: 349.0 Km
+
+Rodada 33 - Internacional X Fluminense - Distância: 1120.0 Km
+
+Rodada 33 - Athletico-PR X Fortaleza - Distância: 2673.0 Km
+
+Rodada 33 - Bahia X Cuiabá - Distância: 1918.0 Km
+
+Rodada 33 - América-MG X Coritiba - Distância: 821.0 Km
+
+Rodada 34 - Flamengo X Fluminense - Distância: 1.0 Km
+
+Rodada 34 - Vasco X América-MG - Distância: 349.0 Km
+
+Rodada 34 - Palmeiras X Internacional - Distância: 851.0 Km
+
+Rodada 34 - Santos X São Paulo - Distância: 56.0 Km
+
+Rodada 34 - Bragantino X Botafogo - Distância: 343.0 Km
+
+Rodada 34 - Atlético-MG X Goiás - Distância: 667.0 Km
+
+Rodada 34 - Grêmio X Corinthians - Distância: 850.0 Km
+
+Rodada 34 - Coritiba X Cruzeiro - Distância: 821.0 Km
+
+Rodada 34 - Bahia X Athletico-PR - Distância: 1788.0 Km
+
+Rodada 34 - Cuiabá X Fortaleza - Distância: 2331.0 Km
+
+Rodada 35 - Fluminense X Coritiba - Distância: 674.0 Km
+
+Rodada 35 - Botafogo X Santos - Distância: 340.0 Km
+
+Rodada 35 - São Paulo X Cuiabá - Distância: 1327.0 Km
+
+Rodada 35 - Corinthians X Bahia - Distância: 1458.0 Km
+
+Rodada 35 - Goiás X Cruzeiro - Distância: 670.0 Km
+
+Rodada 35 - Atlético-MG X Grêmio - Distância: 1343.0 Km
+
+Rodada 35 - Internacional X Bragantino - Distância: 915.0 Km
+
+Rodada 35 - Athletico-PR X Vasco - Distância: 674.0 Km
+
+Rodada 35 - Fortaleza X Palmeiras - Distância: 2373.0 Km
+
+Rodada 35 - América-MG X Flamengo - Distância: 349.0 Km
+
+Rodada 36 - Flamengo X Atlético-MG - Distância: 349.0 Km
+
+Rodada 36 - Vasco X Corinthians - Distância: 360.0 Km
+
+Rodada 36 - Palmeiras X América-MG - Distância: 491.0 Km
+
+Rodada 36 - Santos X Fluminense - Distância: 338.0 Km
+
+Rodada 36 - Bragantino X Fortaleza - Distância: 2306.0 Km
+
+Rodada 36 - Cruzeiro X Athletico-PR - Distância: 821.0 Km
+
+Rodada 36 - Grêmio X Goiás - Distância: 1498.0 Km
+
+Rodada 36 - Coritiba X Botafogo - Distância: 674.0 Km
+
+Rodada 36 - Bahia X São Paulo - Distância: 1458.0 Km
+
+Rodada 36 - Cuiabá X Internacional - Distância: 1681.0 Km
+
+Rodada 37 - Flamengo X Cuiabá - Distância: 1577.0 Km
+
+Rodada 37 - Botafogo X Cruzeiro - Distância: 349.0 Km
+
+Rodada 37 - Palmeiras X Fluminense - Distância: 360.0 Km
+
+Rodada 37 - Corinthians X Internacional - Distância: 851.0 Km
+
+Rodada 37 - Bragantino X Coritiba - Distância: 392.0 Km
+
+Rodada 37 - Atlético-MG X São Paulo - Distância: 493.0 Km
+
+Rodada 37 - Grêmio X Vasco - Distância: 1120.0 Km
+
+Rodada 37 - Athletico-PR X Santos - Distância: 340.0 Km
+
+Rodada 37 - Fortaleza X Goiás - Distância: 1857.0 Km
+
+Rodada 37 - América-MG X Bahia - Distância: 966.0 Km
+
+Rodada 38 - Fluminense X Grêmio - Distância: 1125.0 Km
+
+Rodada 38 - Vasco X Bragantino - Distância: 343.0 Km
+
+Rodada 38 - São Paulo X Flamengo - Distância: 360.0 Km
+
+Rodada 38 - Santos X Fortaleza - Distância: 2401.0 Km
+
+Rodada 38 - Goiás X América-MG - Distância: 670.0 Km
+
+Rodada 38 - Cruzeiro X Palmeiras - Distância: 493.0 Km
+
+Rodada 38 - Internacional X Botafogo - Distância: 1120.0 Km
+
+Rodada 38 - Coritiba X Corinthians - Distância: 337.0 Km
+
+Rodada 38 - Bahia X Atlético-MG - Distância: 966.0 Km
+
+Rodada 38 - Cuiabá X Athletico-PR - Distância: 1304.0 Km
